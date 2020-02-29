@@ -106,7 +106,7 @@ Dan masih ada fitur-fitur tambahan lainnya.
 
 ## Petunjuk Install
 ### Localhost
-Aplikasi Pendukung :
+Memerlukan :
 1. XAMPP v7.4.1 ke-Atas
 
 Install :
@@ -119,9 +119,12 @@ Install :
 7. Baca juga Pusat Banutan, akses dengan alamat `http://localhost/manport/index.php?ref=pusat_bantuan` atau pada Menu Header klik link dengan icon tanda tanya!
 
 ### Online
+Memerlukan :
+1. PHP v7.4.1 ke-Atas
+
 Install :
 1. Clone or Download Zip and Extract
-2. Copy folder dan file yang ada dalam folder `manport` kecuali file (`raport.sql`,`README.md`,`.gitignore`) ke dalam folder HTDOCS or PUBLIC_HTML
+2. Copy folder dan file yang ada dalam folder `manport` kecuali file (`raport.sql`,`README.md`,`.gitignore`,`.git/`) ke dalam folder HTDOCS or PUBLIC_HTML
 3. Buat database dengan nama `raport` dan Export database `raport.sql`
 4. Pada Folder CLASS buka file `class_config.php`
 	- Cari dan ubah bagian ini 
