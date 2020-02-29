@@ -162,9 +162,8 @@ Install :
 7. Harap baca Panduan Penggunaan, akses dengan alamat `[nama hostmu]/panduan_penggunaan/`!
 8. Baca juga Pusat Bantuan, akses dengan alamat `[nama hostmu]/index.php?ref=pusat_bantuan` atau pada Menu Header klik link dengan icon tanda tanya!
 
-#### Info Login Default
-Admin :
-----
+## Info Login Default
+### Admin :
 **No**|**Username**|**Password**
 :----:|:----:|:----:
 1|reza|reza12345678
