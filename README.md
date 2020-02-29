@@ -1,13 +1,13 @@
 # MANPORT - Management Raport ![downloads](https://img.shields.io/badge/Version-3.0-brightgreen)
 Assalamualaikum Warohmatullohi Wabarokatuh
 
-Halo, Sesuai namanya aplikasi ini adalah aplikasi untuk Manage/Mengelola data-data **raport Siswa SMK** untuk kurikulum K13, mulai dari siswa masuk sampai siswa lulus, dengan fitur-fitur yang dimilikinya diharapkan aplikasi ini bisa membantu para guru dan pihak sekolah untuk Manage/Mengelola data raport siswa. 
-Aplikasi memiliki 3 Hak Akses (Admin, Wali Kelas, Siswa), Admin bertugas mengisi semua data seperti Identitas Sekolah, Jurusan, dll. Wali Kelas bertugas mengisi data raport siswa seperti Sikap Siswa, Nilai, dll. Hak Akses Siswa hanya bisa digunakan jika aplikasi di onlinekan tidak dilocalhost. Aplikasi juga dilengkapi dengan pusat bantuan dan panduan penggunaan, cara mengaksesnya simak pada bagian **Cara Install** dibawah ini!.
+Halo, Sesuai namanya aplikasi ini adalah aplikasi untuk Manage/Mengelola data-data **raport Siswa SMK** untuk kurikulum K13, mulai dari siswa masuk sampai siswa lulus, dengan fitur yang dimilikinya diharapkan aplikasi ini bisa membantu para guru dan pihak sekolah untuk Manage/Mengelola data raport siswa. 
+Aplikasi memiliki 3 Hak Akses (Admin, Wali Kelas, Siswa), Admin bertugas mengisi semua data seperti Identitas Sekolah, Jurusan, dll. Wali Kelas bertugas mengisi data raport siswa seperti Sikap Siswa, Nilai, dll. Hak Akses Siswa hanya bisa digunakan jika aplikasi di onlinekan tidak dilocalhost. Aplikasi juga dilengkapi dengan pusat bantuan dan panduan penggunaan, cara mengaksesnya simak pada bagian **Cara Install** dibawah!.
 
 Demo Aplikasi : https://reiran-demo.000webhostapp.com/raport
 
 ## Latar Belakang Pembuatan Aplikasi
-Alasan saya membuat aplikasi ini adalah karena saya sering mendengar keluhan para guru wali kelas saat akhir semester, mengenai pengisian raport. Setiap akhir semester harus membuat dokumen pada Microsoft Word (membuat table, mengatur layout dll), juga membuat dokumen pada Microsoft Excel untuk menentukan siapa-siapa saja juara kelas-nya. Dan lagi jika ada siswa yang terdapat kesalahan nama pada lembaran raport-nya, ini biasanya jika siswa sudah naik kelas dan baru menyadari ada kesalahan penulisan nama dilembaran raportnya, apa lagi jika siswa sudah kelas XII dan lembaran raport yang salah itu kelas X. Agak tidak merepotkan jika si-wali kelas masih menyimpan dokumen-nya, namun jika tidak, pasti merepotkan sekali, ini sudah saya alami sendiri waktu SMK.
+Alasan saya membuat aplikasi ini adalah karena saya sering mendengar keluhan para guru wali kelas saat akhir semester, mengenai pengisian raport. Setiap akhir semester harus membuat dokumen pada Microsoft Word (membuat table, mengatur layout dll), juga membuat dokumen pada Microsoft Excel untuk menentukan siapa-siapa saja juara kelas-nya. Dan lagi jika ada siswa yang terdapat kesalahan nama pada lembaran raport-nya, ini biasanya jika siswa sudah naik kelas dan baru menyadari ada kesalahan penulisan nama dilembaran raportnya, apa lagi jika siswa sudah kelas XII dan lembaran raport yang salah itu kelas X. Agak tidak merepotkan jika si-wali kelas masih menyimpan dokumen-nya, namun jika tidak, pasti merepotkan sekali.
 
 ## Apakah Aplikasi Ini Gratis?
 Aplikasi ini gratis untuk digunakan, dipelajari, dijadikan referensi atau dikembangkan, dan perlu diingat bahwa **APLIKASI INI TIDAK DIPERJUAL BELIKAN**, berbeda cerita jika aplikasi telah dikembangkan sedemikian rupa, sehingga sangat berbeda dengan yang sekarang, maka boleh-boleh saja untuk menjualnya, namun tetap menyertakan **SUMBER**.
@@ -51,7 +51,7 @@ Aplikasi ini gratis untuk digunakan, dipelajari, dijadikan referensi atau dikemb
 10. Kelola data Siswa Lulus
 	- Ubah Siswa Lulus
 	- Hapus Siswa Lulus
-	- Transkip Nilai Dari Semua Semester
+	- Export(PDF)/Cetak Transkip Nilai Dari Semua Semester
 	- Export(PDF)/Cetak Surat Kelulusan
 11. Kelola data Siswa keluar
 	- Ubah Siswa Keluar
@@ -72,7 +72,7 @@ Dan masih ada fitur-fitur tambahan lainnya.
 	- Export(PDF)/Cetak Lembaran Serah Terima Raport
 	- Menjalankan Kenaikan Kelas(Kelas Siswa Akan Diupdate Sesuai Status Akhir Semester)
 	- Tampil Siswa Tinggal Kelas
-	- Tampil Siswa Lulus
+	- Tampil Siswa Tidak Lulus
 2. Raport Siswa
 	- Tambah Sikap Siswa
 	- Ubah Sikap Siswa
@@ -92,6 +92,7 @@ Dan masih ada fitur-fitur tambahan lainnya.
 	- Ubah Status Akhir Semester
 	- Export(PDF)/Cetak Raport Siswa
 	- Reset/Hapus data Raport
+Dan masih ada fitur-fitur tambahan lainnya.
 
 ## Teknologi Apa yang digunakan?
 1. PHP7(OOP)
