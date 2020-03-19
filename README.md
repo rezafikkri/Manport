@@ -4,7 +4,7 @@ Assalamualaikum Warohmatullohi Wabarokatuh
 Halo, Sesuai namanya aplikasi ini adalah aplikasi untuk Manage/Mengelola data-data **raport Siswa SMK** untuk kurikulum K13, mulai dari siswa masuk sampai siswa lulus, dengan fitur yang dimilikinya diharapkan aplikasi ini bisa membantu para guru dan pihak sekolah untuk Manage/Mengelola data raport siswa. 
 Aplikasi memiliki 3 Hak Akses (Admin, Wali Kelas, Siswa), Admin bertugas mengisi semua data seperti Identitas Sekolah, Jurusan, dll. Wali Kelas bertugas mengisi data raport siswa seperti Sikap Siswa, Nilai, dll. Hak Akses Siswa hanya bisa digunakan jika aplikasi di onlinekan tidak dilocalhost. Aplikasi juga dilengkapi dengan pusat bantuan dan panduan penggunaan, cara mengaksesnya simak pada bagian **Cara Install** dibawah!.
 
-Demo Aplikasi : https://reiran-demo.000webhostapp.com/raport
+Demo Aplikasi : https://reiran-demo.000webhostapp.com/manport
 
 ## Latar Belakang Pembuatan Aplikasi
 Alasan saya membuat aplikasi ini adalah karena saya sering mendengar keluhan para guru wali kelas saat akhir semester, mengenai pengisian raport. Setiap akhir semester harus membuat dokumen pada Microsoft Word (membuat table, mengatur layout dll), juga membuat dokumen pada Microsoft Excel untuk menentukan siapa-siapa saja juara kelas-nya. Dan lagi jika ada siswa yang terdapat kesalahan nama pada lembaran raport-nya, ini biasanya jika siswa sudah naik kelas dan baru menyadari ada kesalahan penulisan nama dilembaran raportnya, apa lagi jika siswa sudah kelas XII dan lembaran raport yang salah itu kelas X. Agak tidak merepotkan jika si-wali kelas masih menyimpan dokumen-nya, namun jika tidak, pasti merepotkan sekali.
