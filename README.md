@@ -6,7 +6,7 @@ Aplikasi memiliki 3 Hak Akses (Admin, Wali Kelas, Siswa), Admin bertugas mengisi
 
 Demo Aplikasi : 
 1. Via Web - https://reiran-demo.000webhostapp.com/raport_demo
-2. Via Video - https://www.youtube.com/embed/fho16Ge-55Q
+2. Via Video - https://youtu.be/fho16Ge-55Q
 
 ## Latar Belakang Pembuatan Aplikasi
 Alasan saya membuat aplikasi ini adalah karena saya sering mendengar keluhan para guru wali kelas saat akhir semester, mengenai pengisian raport. Setiap akhir semester harus membuat dokumen pada Microsoft Word (membuat table, mengatur layout dll), juga membuat dokumen pada Microsoft Excel untuk menentukan siapa-siapa saja juara kelas-nya. Dan lagi jika ada siswa yang terdapat kesalahan nama pada lembaran raport-nya, ini biasanya jika siswa sudah naik kelas dan baru menyadari ada kesalahan penulisan nama dilembaran raportnya, apa lagi jika siswa sudah kelas XII dan lembaran raport yang salah itu kelas X. Agak tidak merepotkan jika si-wali kelas masih menyimpan dokumen-nya, namun jika tidak, pasti merepotkan sekali.
