@@ -2,7 +2,7 @@
 Assalamualaikum Warohmatullohi Wabarokatuh
 
 Halo, Sesuai namanya aplikasi ini adalah aplikasi untuk Manage/Mengelola data-data **raport Siswa SMK** untuk kurikulum K13, mulai dari siswa masuk sampai siswa lulus, dengan fitur yang dimilikinya diharapkan aplikasi ini bisa membantu para guru dan pihak sekolah untuk Manage/Mengelola data raport siswa. 
-Aplikasi memiliki 3 Hak Akses (Admin, Wali Kelas, Siswa), Admin bertugas mengisi semua data seperti Identitas Sekolah, Jurusan, dll. Wali Kelas bertugas mengisi data raport siswa seperti Sikap Siswa, Nilai, dll. Hak Akses Siswa hanya bisa digunakan jika aplikasi di onlinekan tidak dilocalhost. Aplikasi juga dilengkapi dengan pusat bantuan dan panduan penggunaan, cara mengaksesnya simak pada bagian **Cara Install** dibawah!.
+Aplikasi memiliki 3 Hak Akses (Admin, Wali Kelas, Siswa), Admin bertugas mengisi semua data seperti Identitas Sekolah, Jurusan, dll. Wali Kelas bertugas mengisi data raport siswa seperti Sikap Siswa, Nilai, dll. Hak Akses Siswa hanya bisa digunakan jika aplikasi di onlinekan tidak dilocalhost. Aplikasi juga dilengkapi dengan pusat bantuan dan panduan penggunaan, cara mengaksesnya simak pada bagian **Petunjuk Install** dibawah!.
 
 Demo Aplikasi : 
 1. Via Web - https://reiran-demo.000webhostapp.com/raport_demo
@@ -95,6 +95,8 @@ Dan masih ada fitur-fitur tambahan lainnya.
 	- Export(PDF)/Cetak Raport Siswa
 	- Reset/Hapus data Raport
 Dan masih ada fitur-fitur tambahan lainnya.
+Siswa :
+1. Melihat Raport
 
 ## Teknologi Apa yang digunakan?
 1. PHP7(OOP)
