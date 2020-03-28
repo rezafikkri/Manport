@@ -1,7 +1,7 @@
 <div class="col-8 offset-right-2 offset-left-2 marginBottom100px">
 	<div class="home default no_box_shadow pusat_bantuan">
 		<h1 class="judulPusatBantuan">Home Guru Wali Kelas</h1>
-		<p>Silahkan login sebagai Guru Wali Kelas dengan alamat <span style="background-color: #f9ef95">localhost/raport/</span> &raquo; klik button berwarna kuning dipojok kanan atas &raquo; Masukkan Nama lengkap beserta gelar dan password, lalu klik masuk.</p><img src="img/login_home_guru.png">
+		<p>Silahkan login sebagai Guru Wali Kelas dengan alamat <span style="background-color: #f9ef95">localhost/raport/</span> &raquo; klik button berwarna kuning dipojok kanan atas &raquo; Masukkan Nama lengkap beserta gelar dan password, lalu klik masuk. Jika kamu gagal login, dan pesan errornya adalah <i>Login belum dizinkan, hubungi admin!</i>, maka itu artinya admin belum men-set tahun ajaran dan semester yang berlaku atau aktif.</p><img src="img/login_home_guru.png">
 		<p>Pada Home Guru Wali Kelas akan dibagi menjadi dua bagian, Semester 1 dan Semester 2.</p>
 		<h2 class="judulPusatBantuan">Semester 1</h2>
 		<h2 class="judulPusatBantuan">Cek Nilai Belum Dimasukkan:</h2>
