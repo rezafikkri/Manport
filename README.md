@@ -1,4 +1,4 @@
-# MANPORT - Management Raport<br>![downloads](https://img.shields.io/badge/Version-3.0-brightgreen) <a href="https://twitter.com/rezafikkri?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rezafikkri</a>
+# MANPORT - Management Raport<br>![downloads](https://img.shields.io/badge/Version-3.0-brightgreen)
 Assalamualaikum Warohmatullohi Wabarokatuh
 
 Halo, Sesuai namanya aplikasi ini adalah aplikasi untuk Manage/Mengelola data-data **raport Siswa SMK** untuk kurikulum K13, mulai dari siswa masuk sampai siswa lulus, dengan fitur yang dimilikinya diharapkan aplikasi ini bisa membantu para guru dan pihak sekolah untuk Manage/Mengelola data raport siswa. 
@@ -9,9 +9,6 @@ Demo Aplikasi :
 
 ## Latar Belakang Pembuatan Aplikasi
 Alasan saya membuat aplikasi ini adalah karena saya sering mendengar keluhan para guru wali kelas saat akhir semester, mengenai pengisian raport. Setiap akhir semester harus membuat dokumen pada Microsoft Word (membuat table, mengatur layout dll), juga membuat dokumen pada Microsoft Excel untuk menentukan siapa-siapa saja juara kelas-nya. Dan lagi jika ada siswa yang terdapat kesalahan nama pada lembaran raport-nya, ini biasanya jika siswa sudah naik kelas dan baru menyadari ada kesalahan penulisan nama dilembaran raportnya, apa lagi jika siswa sudah kelas XII dan lembaran raport yang salah itu kelas X. Agak tidak merepotkan jika si-wali kelas masih menyimpan dokumen-nya, namun jika tidak, pasti merepotkan sekali.
-
-## Apakah Aplikasi Ini Gratis?
-Aplikasi ini gratis untuk digunakan, dipelajari, dijadikan referensi atau dikembangkan, dan perlu diingat bahwa **APLIKASI INI TIDAK DIPERJUAL BELIKAN**, berbeda cerita jika aplikasi telah dikembangkan sedemikian rupa, sehingga sangat berbeda dengan yang sekarang, maka boleh-boleh saja untuk menjualnya, namun tetap menyertakan **SUMBER**.
 
 ## Apa Saja Fiturnya?
 ### Admin :
