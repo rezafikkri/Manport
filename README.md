@@ -1,4 +1,4 @@
-# MANPORT - Management Raport ![downloads](https://img.shields.io/badge/Version-3.0-brightgreen)
+# MANPORT - Management Raport<br>![downloads](https://img.shields.io/badge/Version-3.0-brightgreen) <a href="https://twitter.com/rezafikkri?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rezafikkri</a>
 Assalamualaikum Warohmatullohi Wabarokatuh
 
 Halo, Sesuai namanya aplikasi ini adalah aplikasi untuk Manage/Mengelola data-data **raport Siswa SMK** untuk kurikulum K13, mulai dari siswa masuk sampai siswa lulus, dengan fitur yang dimilikinya diharapkan aplikasi ini bisa membantu para guru dan pihak sekolah untuk Manage/Mengelola data raport siswa. 
