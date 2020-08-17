@@ -12,6 +12,9 @@
 -- Database : `raport`
 --
 
+CREATE DATABASE `raport`;
+use `raport`;
+
 -- --------------------------------------------------------
 
 --
