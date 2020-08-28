@@ -55,21 +55,21 @@
 <div class="col-4">
 	<div class="home default cart green">
 		<h1 class="judul marginBottom10px">Siswa Aktif</h1>
-		<img src="<?= config::base_url('assets/img/icon/siswa icon.png'); ?>">
+		<img src="<?= config::base_url('assets/img/icon/siswa icon.svg'); ?>">
 		<h3 class="judul">Jumlah - <?= $jml_siswa; ?></h3>
 	</div>
 </div>
 <div class="col-4">
 	<div class="home default cart blue">
 		<h1 class="judul marginBottom10px">Kelas</h1>
-		<img src="<?= config::base_url('assets/img/icon/kelas icon.png'); ?>">
+		<img src="<?= config::base_url('assets/img/icon/kelas icon.svg'); ?>">
 		<h3 class="judul">Jumlah - <?= $jml_kelas; ?></h3>
 	</div>
 </div>
 <div class="col-4">
 	<div class="home default cart red">
 		<h1 class="judul marginBottom10px">Semester - Tahun Ajaran</h1>
-		<img src="<?= config::base_url('assets/img/icon/pendidikan icon.png'); ?>">
+		<img src="<?= config::base_url('assets/img/icon/pendidikan icon.svg'); ?>">
 		<h3 class="judul"><?= ($_SESSION['RAPORT']['semester']??'').' - '.($_SESSION['RAPORT']['tahun_ajaran']??''); ?></h3>
 	</div>
 </div>

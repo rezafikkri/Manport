@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 132.292 132.292"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="kelas icon.svg"
+   inkscape:version="0.92.5 (0.92.5+68)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1.3350176"
+     inkscape:cx="113.19813"
+     inkscape:cy="273.10441"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <circle
+     cx="66.146"
+     cy="66.146"
+     r="65.828"
+     fill="#f9f9f9"
+     paint-order="markers stroke fill"
+     id="circle2" />
+  <rect
+     width="73.778"
+     height="43.758"
+     x="29.257"
+     y="44.267"
+     ry=".763"
+     fill="#fff"
+     stroke="#6ad"
+     stroke-width="3.307"
+     paint-order="markers stroke fill"
+     id="rect4"
+     style="stroke-width:8.91621622;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     width="34.836"
+     height="3.18"
+     x="35.299"
+     y="51.772"
+     ry=".382"
+     fill="#6ad"
+     paint-order="markers stroke fill"
+     id="rect6" />
+  <rect
+     width="49.65"
+     height="3.238"
+     x="35.284"
+     y="60.245"
+     ry=".382"
+     fill="#69c"
+     paint-order="markers stroke fill"
+     id="rect8" />
+  <rect
+     width="24.66"
+     height="3.18"
+     x="35.299"
+     y="69.868"
+     ry=".382"
+     fill="#6ad"
+     paint-order="markers stroke fill"
+     id="rect10" />
+  <rect
+     width="8.72"
+     height="5.933"
+     x="83.571"
+     y="83.092"
+     ry="1.24"
+     fill="none"
+     stroke="#6ad"
+     stroke-width=".803"
+     paint-order="markers stroke fill"
+     id="rect12"
+     style="stroke-width:1.96718204;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>
