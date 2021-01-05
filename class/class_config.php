@@ -24,7 +24,7 @@ class config  {
 		}
 		catch(PDOException$e)
 		{
-			return "gagal konek".$e->getMessage()."<br>";
+			echo "gagal konek".$e->getMessage()."<br>";
 		}
 	}
 
