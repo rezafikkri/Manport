@@ -114,9 +114,9 @@ Install :
 2. Copy Folder manport ke dalam folder HTDOCS
 3. Buat database dengan nama `raport` dan Export database `raport.sql`
 4. Selamat Aplikasi Berhasil diInstall
-5. Akses Aplikasi dengan alamat `localhost/manport`
-6. Harap baca Panduan Penggunaan, akses dengan alamat `localhost/manport/panduan_penggunaan/`!
-7. Baca juga Pusat Banutan, akses dengan alamat `http://localhost/manport/index.php?ref=pusat_bantuan` atau pada Menu Header klik link dengan icon tanda tanya!
+5. Akses Aplikasi dengan alamat `localhost/Manport`
+6. Harap baca Panduan Penggunaan, akses dengan alamat `localhost/Manport/panduan_penggunaan/`!
+7. Baca juga Pusat Banutan, akses dengan alamat `http://localhost/Manport/index.php?ref=pusat_bantuan` atau pada Menu Header klik link dengan icon tanda tanya!
 
 ### Online
 Memerlukan :
@@ -124,7 +124,7 @@ Memerlukan :
 
 Install :
 1. Clone or Download Zip and Extract
-2. Copy folder dan file yang ada dalam folder `manport` kecuali file (`raport.sql`,`README.md`,`.gitignore`,`.git/`) ke dalam folder HTDOCS or PUBLIC_HTML
+2. Copy folder dan file yang ada dalam folder `Manport` kecuali file (`raport.sql`,`README.md`,`.gitignore`,`.git/`) ke dalam folder HTDOCS or PUBLIC_HTML
 3. Buat database dengan nama `raport` dan Export database `raport.sql`
 4. Pada Folder CLASS buka file `class_config.php`
 	- Cari dan ubah bagian ini 
@@ -143,7 +143,7 @@ Install :
       } else {
         $protocol = 'http://';
       }
-      return self::protocol().$_SERVER['HTTP_HOST']."/manport/".$uri;
+      return self::protocol().$_SERVER['HTTP_HOST']."/Manport/".$uri;
     }
     ```
     menjadi
