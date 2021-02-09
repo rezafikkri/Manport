@@ -154,7 +154,7 @@ Install :
       } else {
         $protocol = 'http://';
       }
-      return self::protocol().$_SERVER['HTTP_HOST'].$uri;
+      return self::protocol().$_SERVER['HTTP_HOST'].'/'.$uri;
     }
     ```
 5. Selamat Aplikasi Berhasil diInstall

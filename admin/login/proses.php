@@ -20,6 +20,7 @@ if($login == "success") {
 	$_SESSION['RAPORT']['usernameNotFound'] = "yes";
 	header("Location: ".config::base_url('admin/login/login.php'));
 	die;
+
 } else {
 	header("Location: ".config::base_url('admin/login/login.php'));
 	die;	
