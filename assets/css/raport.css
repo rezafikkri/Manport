@@ -1,28 +1,34 @@
+/*!
+ * Manport v3.0.0
+ * Copyright (c) 2020 Reza Sariful Fikri
+ * Released under the MIT (License https://github.com/rezafikkri/Manport/blob/master/LICENSE)
+*/
+
 /*font*/
 @font-face {
     font-family: 'robotoregular';
-    src: url('../font/Roboto-Regular-webfont.woff') format('woff');
+    src: url('../font/roboto/Roboto-Regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'open_sansregular';
-    src: url('../font/OpenSans-Regular-webfont.woff') format('woff');
+    src: url('../font/open-sans/OpenSans-Regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
 	font-family: 'Gelasio_Regular';
-	src: url('../font/Gelasio-Regular.ttf');
+	src: url('../font/Gelasio/Gelasio-Regular.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Gelasio_Bold';
-	src: url('../font/Gelasio-Bold.ttf');
+	src: url('../font/Gelasio/Gelasio-Bold.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
