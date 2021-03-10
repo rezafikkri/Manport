@@ -29,7 +29,7 @@ if($action == "tampil_raport") {
 	$semester_id = $arrSemester[0];
 	$semester = $arrSemester[1]??1;
 	$tahun_ajaran_id = filter_input(INPUT_POST, 'tahun_ajaran_id', FILTER_SANITIZE_STRING);
-	$siswa_detail_id = $dbS->get_one_siswa_detail_not_where_siswa_detail_id("siswa_detail_id","nama_siswa=:nama_siswa and nisn=:nisn",[':nama_siswa'=>$nama_siswa, ':nisn'=>$nisn])['siswa_detail_id'];
+	$siswa_detail_id = $dbS->get_one_siswa_detail_not_where_siswa_detail_id("siswa_detail_id","nama_siswa=:nama_siswa and nisn=:nisn",[':nama_siswa'=>$nama_siswa, ':nisn'=>$nisn])['siswa_detail_id']??null;
 	// jika siswa ada
 	if($siswa_detail_id) {
 		// get sikap
