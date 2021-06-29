@@ -107,7 +107,7 @@ Siswa :
 ## Petunjuk Install
 ### Localhost
 Memerlukan :
-1. PHP v7.4 ke-Atas
+1. PHP v7.4.x
 
 Install :
 1. Clone or Download Zip and Extract
@@ -120,7 +120,7 @@ Install :
 
 ### Online
 Memerlukan :
-1. PHP v7.4 ke-Atas
+1. PHP v7.4.x
 
 Install :
 1. Clone or Download Zip and Extract
