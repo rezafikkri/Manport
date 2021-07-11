@@ -4,8 +4,8 @@ class config  {
 	// data to connect db
 	private $host = "localhost";
 	protected $dbname = "raport";
-	private $username = "reza";
-	private $password = "reza";
+	private $username = "root";
+	private $password = "";
 	// db object
 	protected $db;
 	
