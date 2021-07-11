@@ -95,7 +95,7 @@ Siswa :
 1. Melihat Raport
 
 ## Teknologi Apa yang digunakan?
-1. PHP7(OOP)
+1. PHP
 2. HTML5
 3. CSS3
 4. Javascript
@@ -110,7 +110,7 @@ Memerlukan :
 1. PHP v7.4.x
 
 Install :
-1. Clone or Download Zip and Extract
+1. Clone atau Download Zip and Extract
 2. Copy Folder manport ke dalam folder HTDOCS
 3. Buat database dengan nama `raport` dan Export database `raport.sql`
 4. Selamat Aplikasi Berhasil diInstall
@@ -123,19 +123,11 @@ Memerlukan :
 1. PHP v7.4.x
 
 Install :
-1. Clone or Download Zip and Extract
+1. Clone atau Download Zip and Extract
 2. Copy folder dan file yang ada dalam folder `Manport` kecuali file (`raport.sql`,`README.md`,`.gitignore`,`.git/`) ke dalam folder HTDOCS or PUBLIC_HTML
 3. Buat database dengan nama `raport` dan Export database `raport.sql`
 4. Pada Folder CLASS buka file `class_config.php`
-	- Cari dan ubah bagian ini 
-    ```php 
-    // data to connect db
-    private $host = "nama host kamu";
-    protected $dbname = "nama database kamu";
-    private $username = "username database kamu";
-    private $password = "password database kamu";
-    ```
-	- Cari dan ubah bagian ini 
+	- Cari dan ubah bagian ini
     ```php
     public static function base_url($uri='') {
       if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
@@ -157,6 +149,7 @@ Install :
       return self::protocol().$_SERVER['HTTP_HOST'].'/'.$uri;
     }
     ```
+5. Jangan lupa untuk mengubah value dari $host, $dbname, $username dan $password pada file class_config.php, sesuaikan nilainya dengan konfigurasi database kamu.
 5. Selamat Aplikasi Berhasil diInstall
 6. Akses Aplikasi dengan alamat `[nama hostmu]`
 7. Harap baca Panduan Penggunaan, akses dengan alamat `[nama hostmu]/panduan_penggunaan/`!
