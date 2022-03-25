@@ -112,7 +112,7 @@ Memerlukan :
 Install :
 1. Clone atau Download Zip and Extract
 2. Copy Folder manport ke dalam folder HTDOCS
-3. Buat database dengan nama `raport` dan Export database `raport.sql`
+3. Export database `raport.sql`
 4. Selamat Aplikasi Berhasil diInstall
 5. Akses Aplikasi dengan alamat `localhost/Manport`
 6. Harap baca Panduan Penggunaan, akses dengan alamat `localhost/Manport/panduan_penggunaan/`!
@@ -125,7 +125,7 @@ Memerlukan :
 Install :
 1. Clone atau Download Zip and Extract
 2. Copy folder dan file yang ada dalam folder `Manport` kecuali file (`raport.sql`,`README.md`,`.gitignore`,`.git/`) ke dalam folder HTDOCS or PUBLIC_HTML
-3. Buat database dengan nama `raport` dan Export database `raport.sql`
+3. Export database `raport.sql`
 4. Pada Folder CLASS buka file `class_config.php`
 	- Cari dan ubah bagian ini
     ```php
