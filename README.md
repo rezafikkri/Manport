@@ -162,12 +162,14 @@ Install :
 1|reza|reza12345678
 
 URL: [host]/raport/admin
+
 Contoh: http://localhost/raport/admin
 
 ### Wali Kelas :
 > Username dan Password harus dibuat terlebih dahulu oleh admin, lalu perlu beberapa pengaturan dasar yang bisa dilihat di demo aplikasi
 
 URL: [host]/raport
+
 Contoh: http://localhost/raport
 
 **NOTE: Setelah meng-Install, Sangat disarankan untuk mengubah password default tersebut**
