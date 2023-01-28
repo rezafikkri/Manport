@@ -161,15 +161,19 @@ Install :
 :----:|:----:|:----:
 1|reza|reza12345678
 
-URL: [host]/raport/admin
+URL (local): [host]/Manport/admin
 
-Contoh: http://localhost/raport/admin
+URL (online): [host]/admin
+
+Contoh: http://localhost/Manport/admin
 
 ### Wali Kelas :
 > Username dan Password harus dibuat terlebih dahulu oleh admin, lalu perlu beberapa pengaturan dasar yang bisa dilihat di demo aplikasi
 
-URL: [host]/raport
+URL (local): [host]/Manport
 
-Contoh: http://localhost/raport
+URL (online): [host]/
+
+Contoh: http://localhost/Manport
 
 **NOTE: Setelah meng-Install, Sangat disarankan untuk mengubah password default tersebut**
